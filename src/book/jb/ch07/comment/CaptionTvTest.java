@@ -12,7 +12,7 @@ class Tv {
     //3.채널 위로 올리기
     //return void;
     void channelUp() { channel++; }
-    //4.채널 아래로 내리기
+    //4.채널 아래로 내리기 이거 git 테스트
     //return void;
     void channelDown() { channel--; }
 
